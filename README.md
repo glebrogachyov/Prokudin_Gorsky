@@ -14,10 +14,12 @@ OUTPUT
 
 
 This program could be run without any parameters, you only have to put your input image named "pic.jpg" in the same folder as py-file.
+
 Also you can run it from command line giving path to image as a parameter (example: "main.py input_image.tif")
 
 
 The function takes the following parameters:
+
 picname - input file name (default "pic.jpg")
 cut_percent - the percentage of the image that will be cut off from both sides of the input image (default 0.1)
 out_name - output file name (default "result.jpg")
