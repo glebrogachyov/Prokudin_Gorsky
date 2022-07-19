@@ -5,15 +5,9 @@ The program first halves the original image several times, then calculates the o
 - Also you can run it from command line giving path to image as a parameter (example: "main.py input_image.tif")
 
 Example:
-INPUT
 
+![ex2](https://user-images.githubusercontent.com/33635536/179773357-e223ee7f-aed9-4841-905a-ba41d46fe4f3.jpg)
 
-![1](https://user-images.githubusercontent.com/33635536/179764078-bbdd23c3-0a32-4898-a3d4-6ccc4a646280.jpg)
-
-OUTPUT
-
-
-![2](https://user-images.githubusercontent.com/33635536/179764127-dbe237d9-9463-43b3-9cdd-31ca4ce5a464.jpg)
 
 
 
