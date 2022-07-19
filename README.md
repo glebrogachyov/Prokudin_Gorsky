@@ -6,7 +6,8 @@ The program first halves the original image several times, then calculates the o
 
 Example:
 
-![ex2](https://user-images.githubusercontent.com/33635536/179773357-e223ee7f-aed9-4841-905a-ba41d46fe4f3.jpg)
+![ex2](https://user-images.githubusercontent.com/33635536/179773778-81e6be83-a503-4f8e-b8b9-0b7b9fcd61d4.jpg)
+
 
 
 
