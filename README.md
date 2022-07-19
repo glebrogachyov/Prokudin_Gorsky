@@ -1,5 +1,6 @@
 # Prokudin_Gorsky
 Programm that takes as input a scan of Prokudin-Gorsky film with three separate color channels of a photograph, and returns a color image obtained by combining the channels.
+The program first halves the original image several times, then calculates the optimal shift on a small image, and then refines it for larger images. In contrast to the standard alignment algorithm, in which the channels of the original image are shifted relative to each other in a large range, this approach can greatly reduce the computation time for large images without losing quality.
 
 Example:
 INPUT
