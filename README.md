@@ -6,9 +6,13 @@ The program first halves the original image several times, then calculates the o
 
 Example:
 INPUT
+
+
 ![1](https://user-images.githubusercontent.com/33635536/179764078-bbdd23c3-0a32-4898-a3d4-6ccc4a646280.jpg)
 
 OUTPUT
+
+
 ![2](https://user-images.githubusercontent.com/33635536/179764127-dbe237d9-9463-43b3-9cdd-31ca4ce5a464.jpg)
 
 
