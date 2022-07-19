@@ -59,7 +59,7 @@ def align(r, g, b, res, logs=False, calls=0):
     return count_shift(r, g, b)
 
 
-@time_info_dec(True)
+@time_info_dec(False)
 def main(picname, cut_percent=0.1, out_name="result.jpg", logs=False, show_result=False):
     if logs:
         print("Reading image ...")
@@ -100,7 +100,7 @@ if __name__ == "__main__":
     params = argv[1:]
     filename = params[0] if len(params) else 'pic.jpg'
     if filename in os.listdir():
-        main(filename, cut_percent=0.075, out_name="res.jpg", logs=True, show_result=False)
+        main(filename)
     else:
         print("No file named '{}' in directory. Exit.".format(filename))
         exit(1)
